@@ -1,5 +1,8 @@
 module.exports = {
-	base: 'wiki',
+	base: '/wiki/',
+	dest: './docs',
+	title: 'Leo\'s Personal wiki',
+	description: '王润林的个人维基 - Leo\'s Personal Wiki',
 	themeConfig: {
 	sidebar: [
 		['/', 'README'],
