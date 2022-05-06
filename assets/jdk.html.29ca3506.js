@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as n,d as o}from"./app.e1d86867.js";const s={},c={id:"install-and-config-jdk",tabindex:"-1"},d=n("a",{class:"header-anchor",href:"#install-and-config-jdk","aria-hidden":"true"},"#",-1),_=o(" install and config jdk"),r=[d,_];function i(l,h){return a(),t("h2",c,r)}var k=e(s,[["render",i],["__file","jdk.html.vue"]]);export{k as default};

@@ -1,0 +1,1 @@
+const t={key:"v-702d7c2c",path:"/install-config/jdk.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"install and config jdk",slug:"install-and-config-jdk",children:[]}],git:{updatedTime:1651826972e3,contributors:[{name:"Leo",email:"leo@wangrunlin.com",commits:1}]},filePathRelative:"install-config/jdk.md"};export{t as data};

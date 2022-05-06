@@ -1,0 +1,1 @@
+const t={key:"v-38bc823c",path:"/install-config/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"install and config",slug:"install-and-config",children:[]}],git:{updatedTime:1651826972e3,contributors:[{name:"Leo",email:"leo@wangrunlin.com",commits:1}]},filePathRelative:"install-config/README.md"};export{t as data};

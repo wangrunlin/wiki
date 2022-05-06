@@ -1,0 +1,1 @@
+const e={key:"v-22a39d25",path:"/about.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hi \u{1F44B} , I'm Leo",slug:"hi-\u{1F44B}-i-m-leo",children:[]}],git:{updatedTime:1651826972e3,contributors:[{name:"Leo",email:"leo@wangrunlin.com",commits:1}]},filePathRelative:"about.md"};export{e as data};
