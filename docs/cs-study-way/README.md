@@ -62,15 +62,15 @@
 
 ## 后端学习路线
 
-![backend-map](https://cdn.jsdelivr.net/gh/kamranahmedse/developer-roadmap@master/translations/chinese/img/backend-map.png)
+![backend-map](https://cdn.jsdelivr.net/gh/wangrunlin/img@master/roadmap/backend-cn.png)
 
 ## 前端学习路线
 
-![frontend-map](https://cdn.jsdelivr.net/gh/kamranahmedse/developer-roadmap@master/translations/chinese/img/frontend-map.png)
+![frontend-map](https://cdn.jsdelivr.net/gh/wangrunlin/img@master/roadmap/frontend-cn.png)
 
 ## 运维学习路线
 
-![devops-map](https://cdn.jsdelivr.net/gh/kamranahmedse/developer-roadmap@master/translations/chinese/img/devops-map.png)
+![devops-map](https://cdn.jsdelivr.net/gh/wangrunlin/img@master/roadmap/devops-cn.png)
 
 
 
